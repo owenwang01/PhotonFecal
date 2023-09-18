@@ -20,10 +20,10 @@
 #ifndef PrefixHeader_pch
 #define PrefixHeader_pch
 
-#import "HTStringUtils.h"
-#import "NSString+Extension.h"
-#import "HTNetworkApi.h"
-#import "HTCommonUtils.h"
+#import "FreSlimeball.h"
+#import "NSString+GophrWestHegemonic.h"
+#import "TrivialityCarrion.h"
+#import "ObsNuptialsPullet.h"
 #import "ReactiveObjC.h"
 
 #endif /* PrefixHeader_pch */

@@ -1,7 +1,7 @@
 ${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
-${BUILT_PRODUCTS_DIR}/GloviBaseModule/GloviBaseModule.framework
-${BUILT_PRODUCTS_DIR}/GloviNetWorkModule/GloviNetWorkModule.framework
+${BUILT_PRODUCTS_DIR}/Boneshaker/Boneshaker.framework
+${BUILT_PRODUCTS_DIR}/DeflateMango/DeflateMango.framework
 ${BUILT_PRODUCTS_DIR}/HCSStarRatingView/HCSStarRatingView.framework
 ${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
 ${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework

@@ -1,0 +1,6 @@
+framework module Boneshaker {
+  umbrella header "Boneshaker-umbrella.h"
+
+  export *
+  module * { export * }
+}

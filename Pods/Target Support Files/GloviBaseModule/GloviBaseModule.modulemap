@@ -1,6 +1,0 @@
-framework module GloviBaseModule {
-  umbrella header "GloviBaseModule-umbrella.h"
-
-  export *
-  module * { export * }
-}

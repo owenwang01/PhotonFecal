@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  podTest
+//
+//  Created by dn on 2023/9/13.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "FreSlimeball.h"
+#import "NSString+GophrWestHegemonic.h"
+#import "TrivialityCarrion.h"
+#import "ObsNuptialsPullet.h"
+#import "ReactiveObjC.h"
+
+#endif /* PrefixHeader_pch */

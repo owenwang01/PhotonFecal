@@ -1,0 +1,6 @@
+framework module GloviNetWorkModule {
+  umbrella header "GloviNetWorkModule-umbrella.h"
+
+  export *
+  module * { export * }
+}
